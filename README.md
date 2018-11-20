@@ -2,7 +2,8 @@
 
 Indicators of Compromise from BH2018 Research
 
-https://youtu.be/crDJh8k36_w
+https://youtu.be/crDJh8k36_w?t=1
+
 
 # Update (11/20/18)- RTM Infrastructure, September 2018-November 2018
 
