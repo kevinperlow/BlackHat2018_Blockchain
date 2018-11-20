@@ -66,7 +66,7 @@ stat-counter-6-1[.]bit
 195.123.225[.]58
 
 
-<end November Update>
+--end November Update--
 
 
 Appendix: Selected Clusters
