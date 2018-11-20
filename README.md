@@ -1,42 +1,73 @@
 # BlackHat2018_Blockchain
 
 Indicators of Compromise from BH2018 Research
+
 https://youtu.be/crDJh8k36_w
 
 # Update (11/20/18)- RTM Infrastructure, September 2018-November 2018
+
 (Consists of C2s indexed beginning August 1st. Omits IP changes from before that date) 
 
 ya-ru-stat-counter-cdn[.]bit
+
 ya-ru-stat-counter[.]bit
+
 mail-ru-stat-counter[.]bit
+
 mail-ru-stat-counter-cdn[.]bit
+
 mail-ru-stat-cdn[.]bit
+
 mail-ru-stat[.]bit
+
 stat-counter-3-1[.]bit
+
 stat-counter-3-2[.]bit
+
 stat-counter-4-1[.]bit
+
 stat-counter-4-2[.]bit
+
 stat-counter-6-2[.]bit
+
 stat-counter-6-1[.]bit
 
+
 91.92.136[.]133
+
 94.156.144[.]112
+
 94.156.189[.]28
+
 102.165.37[.]97
+
 109.94.110[.]11
+
 109.94.110[.]12
+
 173.242.124[.]143
+
 185.141.61[.]246
+
 185.141.62[.]82
+
 185.203.117[.]161
+
 185.205.210[.]184
+
 185.206.146[.]194
+
 193.37.212[.]183
+
 193.37.212[.]185
+
 193.37.212[.]147
+
 195.123.225[.]58
 
+
 <end November Update>
+
 
 Appendix: Selected Clusters
 
