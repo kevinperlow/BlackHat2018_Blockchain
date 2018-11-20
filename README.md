@@ -69,7 +69,11 @@ stat-counter-6-1[.]bit
 --end November Update--
 
 
-Appendix: Selected Clusters
+
+
+
+
+#Appendix: Selected Clusters
 
 Note: These lists do not include the time ranges for when this infrastructure was active. Researchers are encouraged to visit Namecha[.]in to query domains for this information.
 
